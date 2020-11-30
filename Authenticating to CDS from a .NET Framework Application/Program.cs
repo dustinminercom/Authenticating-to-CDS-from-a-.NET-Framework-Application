@@ -12,7 +12,7 @@ namespace Authenticating_to_CDS_from_a.NET_Framework_Application
             try
             {
                 string connectionString = "AuthType = ClientSecret;" +
-                                           "url = https://rmservername.crmx.dynamics.com; " +
+                                           "url = https://crmservername.crmx.dynamics.com; " +
                                            "ClientId =  " +
                                            "ClientSecret =  ";
 
